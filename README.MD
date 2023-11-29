@@ -69,6 +69,13 @@ server {
 ## 待办事项
 - [ ] 实现每个分享账号的会话隔离，确保聊天记录互不干扰。
 
+## 美图欣赏
+![聊天页](docs/chat.pn.png) 
+![账号](docs/chatgpt_account.pn.png) 
+![GPTS](docs/chatgpt_gpts.png) 
+![共享账号](docs/share_user.png) 
+![登录](docs/user_login.png)
+
 ## 免责声明
 
 使用本系统导致账号被封禁，开发者不承担任何责任。如有担忧，请勿安装使用。

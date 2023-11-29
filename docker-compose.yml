@@ -28,9 +28,9 @@ services:
       - 8200:8001
     environment:
       TZ: Asia/Shanghai # 指定时区
-      # 接入网关地址 可以使用：https://demo.xyhelper.cn
+      # 接入网关地址 可以用cloudflare/clash之类的代理
       CHATPROXY: ""
-      # 接入网关的authkey ： 可以使用xyhelper
+      # 接入网关的授权码
       AUTHKEY: ""
       # 因为官方的CDN可能被墙了，你可以自己用cloudflare做一个代理
       CDNHOST: "https://files.oaiusercontent.com"
