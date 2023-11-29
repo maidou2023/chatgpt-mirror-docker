@@ -68,6 +68,7 @@ server {
 
 ## 待办事项
 - [ ] 实现每个分享账号的会话隔离，确保聊天记录互不干扰。
+- [ ] oem配置化，通过后台配置。
 
 ## 美图欣赏
 ![聊天页](docs/chat.pn.png) 
@@ -75,6 +76,11 @@ server {
 ![GPTS](docs/chatgpt_gpts.png) 
 ![共享账号](docs/share_user.png) 
 ![登录](docs/user_login.png)
+
+
+
+## 开源计划：
+本周内完成源代码全部开源，大家可以下载自由编译，自由修改，自由贴牌
 
 ## 免责声明
 
