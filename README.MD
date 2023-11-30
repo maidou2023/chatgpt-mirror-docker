@@ -65,8 +65,13 @@ server {
 
 ## 待办事项
 - [ ] 支持GPS的sidebar的账户隔离，每个用户自己管理sidebar
+- [x] 支持share
 
 
+**更新日期：2023-11-30 下午**
+- 支持share链接，只是自定义share按钮文本
+- 后台-系统管理-参数列表，增加如下参数：```chatgpt.share_button_text``
+- 建议设置成富文本，支持字体加粗
 
 
 
