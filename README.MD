@@ -62,8 +62,12 @@ server {
 1. 支持动态配置账户会话隔离
 2. 支持品牌信息配置
 3. 和原版有点不同，这边是用户绑定opneai账号
-4. mobile的支持，低调使用，等于3小时80次
+4. mobile的支持，低调使用，等于3小时80次（mobile测试可能是 200次/3小时）
+
+![Alt text](docs/gptsstore.png)
 ![MOBILE](docs/gpt4-mobile.png)
+
+
 
 ## 待办事项
 - [ ] 支持GPS的sidebar的账户隔离，每个用户自己管理sidebar
